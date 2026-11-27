@@ -1,0 +1,187 @@
+order_id,order_date,branch,product,quantity,channel,unit_price,revenue
+1005,2026-03-07,Nairobi,Headphones,3,In-store,2500,7500
+1006,2026-03-26,Nairobi,Headphones,1,Online,2500,2500
+1008,2026-03-08,Nairobi,Charger,5,In-store,1200,6000
+1010,2026-03-05,Nakuru,Charger,5,Online,1200,6000
+1034,2026-03-22,Eldoret,Laptop,2,In-store,65000,130000
+1035,2026-03-24,Nakuru,Laptop,3,Online,65000,195000
+1036,2026-03-02,Nairobi,Laptop,4,Online,65000,260000
+1044,2026-03-19,Nairobi,Phone,2,Online,15000,30000
+1049,2026-03-25,Mombasa,Tablet,1,Online,28000,28000
+1050,2026-03-22,Nakuru,Tablet,4,In-store,28000,112000
+1052,2026-03-07,Nairobi,Tablet,1,In-store,28000,28000
+1055,2026-03-27,Kisumu,Charger,5,Online,1200,6000
+1058,2026-03-20,Nairobi,Charger,4,Phone order,1200,4800
+1070,2026-03-04,Eldoret,Headphones,1,Phone order,2500,2500
+1071,2026-03-25,Kisumu,Charger,3,Phone order,1200,3600
+1076,2026-03-19,Nairobi,Headphones,4,In-store,2500,10000
+1077,2026-03-17,Mombasa,Headphones,3,In-store,2500,7500
+1081,2026-03-15,Kisumu,Laptop,5,Online,65000,325000
+1083,2026-03-16,Nairobi,Tablet,3,Online,28000,84000
+1089,2026-03-19,Nairobi,Headphones,3,In-store,2500,7500
+1092,2026-03-30,Mombasa,Headphones,3,In-store,2500,7500
+1093,2026-03-27,Eldoret,Headphones,3,Online,2500,7500
+1101,2026-03-23,Mombasa,Headphones,1,In-store,2500,2500
+1104,2026-03-08,Mombasa,Laptop,3,Online,65000,195000
+1105,2026-03-06,Nakuru,Headphones,1,Online,2500,2500
+1106,2026-03-17,Mombasa,Laptop,4,Online,65000,260000
+1108,2026-03-31,Nairobi,Tablet,3,Online,28000,84000
+1110,2026-03-26,Kisumu,Headphones,2,In-store,2500,5000
+1116,2026-03-16,Kisumu,Laptop,1,In-store,65000,65000
+1126,2026-03-31,Kisumu,Phone,5,In-store,15000,75000
+1131,2026-03-21,Nairobi,Tablet,3,Online,28000,84000
+1133,2026-03-05,Nakuru,Phone,1,In-store,15000,15000
+1136,2026-03-06,Eldoret,Phone,4,In-store,15000,60000
+1141,2026-03-10,Nakuru,Charger,5,Online,1200,6000
+1144,2026-03-16,Nairobi,Charger,1,In-store,1200,1200
+1166,2026-03-29,Nairobi,Tablet,1,In-store,28000,28000
+1169,2026-03-06,Eldoret,Tablet,4,In-store,28000,112000
+1174,2026-03-30,Mombasa,Tablet,3,Online,28000,84000
+1177,2026-03-25,Nairobi,Tablet,4,In-store,28000,112000
+1203,2026-03-27,Eldoret,Phone,4,In-store,15000,60000
+1208,2026-03-14,Mombasa,Charger,5,In-store,1200,6000
+1211,2026-03-02,Nairobi,Charger,3,In-store,1200,3600
+1217,2026-03-06,Nakuru,Phone,4,Phone order,15000,60000
+1224,2026-03-02,Eldoret,Tablet,3,In-store,28000,84000
+1229,2026-03-26,Kisumu,Charger,1,In-store,1200,1200
+1231,2026-03-02,Mombasa,Headphones,5,In-store,2500,12500
+1233,2026-03-17,Kisumu,Tablet,5,Online,28000,140000
+1237,2026-03-17,Nairobi,Headphones,2,In-store,2500,5000
+1246,2026-03-05,Mombasa,Phone,5,In-store,15000,75000
+1253,2026-03-23,Nakuru,Headphones,3,Online,2500,7500
+1258,2026-03-27,Nakuru,Charger,1,In-store,1200,1200
+1259,2026-03-02,Nakuru,Phone,5,In-store,15000,75000
+1267,2026-03-26,Nairobi,Phone,4,In-store,15000,60000
+1271,2026-03-24,Eldoret,Laptop,3,Phone order,65000,195000
+1278,2026-03-03,Mombasa,Laptop,3,Online,65000,195000
+1284,2026-03-15,Mombasa,Phone,2,Online,15000,30000
+1288,2026-03-05,Eldoret,Phone,4,In-store,15000,60000
+1289,2026-03-09,Nairobi,Phone,2,In-store,15000,30000
+1296,2026-03-08,Kisumu,Tablet,5,In-store,28000,140000
+1303,2026-03-06,Nakuru,Charger,4,In-store,1200,4800
+1316,2026-03-18,Nairobi,Charger,5,In-store,1200,6000
+1324,2026-03-20,Nakuru,Charger,2,Online,1200,2400
+1327,2026-03-28,Nairobi,Laptop,1,In-store,65000,65000
+1330,2026-03-07,Nairobi,Laptop,4,In-store,65000,260000
+1340,2026-03-25,Kisumu,Headphones,1,Phone order,2500,2500
+1341,2026-03-07,Mombasa,Charger,5,Online,1200,6000
+1344,2026-03-02,Nairobi,Tablet,4,In-store,28000,112000
+1345,2026-03-23,Kisumu,Phone,2,Online,15000,30000
+1361,2026-03-27,Kisumu,Charger,2,In-store,1200,2400
+1373,2026-03-27,Kisumu,Laptop,1,In-store,65000,65000
+1379,2026-03-14,Nairobi,Tablet,2,In-store,28000,56000
+1386,2026-03-25,Nairobi,Phone,5,In-store,15000,75000
+1392,2026-03-31,Kisumu,Laptop,5,In-store,65000,325000
+1393,2026-03-14,Nairobi,Tablet,5,Online,28000,140000
+1400,2026-03-06,Nakuru,Tablet,5,In-store,28000,140000
+1409,2026-03-25,Nairobi,Laptop,1,Online,65000,65000
+1415,2026-03-15,Mombasa,Tablet,2,Online,28000,56000
+1421,2026-03-01,Nairobi,Charger,3,In-store,1200,3600
+1428,2026-03-16,Nairobi,Phone,1,In-store,15000,15000
+1433,2026-03-07,Nairobi,Laptop,4,Online,65000,260000
+1435,2026-03-13,Nairobi,Phone,2,In-store,15000,30000
+1437,2026-03-24,Mombasa,Laptop,1,Online,65000,65000
+1442,2026-03-18,Eldoret,Charger,1,Online,1200,1200
+1444,2026-03-30,Nairobi,Tablet,1,In-store,28000,28000
+1450,2026-03-17,Nairobi,Phone,1,Phone order,15000,15000
+1451,2026-03-14,Mombasa,Tablet,2,Online,28000,56000
+1470,2026-03-29,Nairobi,Laptop,1,In-store,65000,65000
+1472,2026-03-08,Nakuru,Tablet,1,In-store,28000,28000
+1473,2026-03-30,Nakuru,Laptop,2,In-store,65000,130000
+1478,2026-03-07,Nairobi,Phone,1,In-store,15000,15000
+1479,2026-03-13,Nairobi,Tablet,3,Online,28000,84000
+1480,2026-03-20,Kisumu,Headphones,5,Online,2500,12500
+1488,2026-03-29,Eldoret,Charger,5,In-store,1200,6000
+1491,2026-03-06,Nairobi,Charger,3,In-store,1200,3600
+1494,2026-03-31,Kisumu,Tablet,3,Phone order,28000,84000
+1505,2026-03-01,Kisumu,Phone,4,Online,15000,60000
+1514,2026-03-05,Nakuru,Charger,1,In-store,1200,1200
+1517,2026-03-25,Kisumu,Laptop,2,In-store,65000,130000
+1519,2026-03-14,Kisumu,Tablet,3,Online,28000,84000
+1526,2026-03-21,Nairobi,Charger,4,Online,1200,4800
+1527,2026-03-20,Kisumu,Tablet,4,In-store,28000,112000
+1550,2026-03-19,Nakuru,Headphones,5,In-store,2500,12500
+1558,2026-03-01,Kisumu,Tablet,5,Online,28000,140000
+1560,2026-03-16,Mombasa,Laptop,5,Phone order,65000,325000
+1561,2026-03-18,Nakuru,Phone,5,Online,15000,75000
+1565,2026-03-21,Kisumu,Phone,2,In-store,15000,30000
+1582,2026-03-17,Mombasa,Tablet,3,Online,28000,84000
+1583,2026-03-27,Mombasa,Tablet,2,Phone order,28000,56000
+1584,2026-03-05,Nairobi,Headphones,2,In-store,2500,5000
+1588,2026-03-19,Nairobi,Charger,2,Phone order,1200,2400
+1592,2026-03-31,Nairobi,Tablet,2,Online,28000,56000
+1603,2026-03-27,Nairobi,Tablet,3,Online,28000,84000
+1604,2026-03-02,Nakuru,Phone,5,In-store,15000,75000
+1609,2026-03-30,Mombasa,Phone,3,In-store,15000,45000
+1616,2026-03-12,Nairobi,Headphones,2,In-store,2500,5000
+1618,2026-03-24,Mombasa,Laptop,2,Phone order,65000,130000
+1621,2026-03-08,Kisumu,Laptop,1,In-store,65000,65000
+1627,2026-03-29,Mombasa,Headphones,3,In-store,2500,7500
+1634,2026-03-13,Nakuru,Laptop,3,In-store,65000,195000
+1641,2026-03-08,Nairobi,Phone,1,Online,15000,15000
+1646,2026-03-10,Kisumu,Headphones,1,Online,2500,2500
+1653,2026-03-08,Kisumu,Tablet,3,Online,28000,84000
+1656,2026-03-27,Nairobi,Laptop,5,Phone order,65000,325000
+1659,2026-03-13,Nairobi,Tablet,1,In-store,28000,28000
+1661,2026-03-15,Nairobi,Headphones,2,In-store,2500,5000
+1666,2026-03-13,Eldoret,Headphones,5,In-store,2500,12500
+1672,2026-03-14,Kisumu,Headphones,4,In-store,2500,10000
+1676,2026-03-25,Nairobi,Headphones,1,Phone order,2500,2500
+1681,2026-03-12,Nairobi,Phone,1,Online,15000,15000
+1683,2026-03-20,Mombasa,Tablet,5,In-store,28000,140000
+1708,2026-03-16,Kisumu,Laptop,4,In-store,65000,260000
+1709,2026-03-31,Nairobi,Phone,2,In-store,15000,30000
+1715,2026-03-03,Nairobi,Charger,3,In-store,1200,3600
+1716,2026-03-26,Nairobi,Charger,4,Online,1200,4800
+1717,2026-03-03,Nairobi,Tablet,5,In-store,28000,140000
+1729,2026-03-12,Nakuru,Laptop,3,In-store,65000,195000
+1732,2026-03-10,Eldoret,Charger,5,Online,1200,6000
+1735,2026-03-20,Nairobi,Charger,3,Phone order,1200,3600
+1739,2026-03-25,Mombasa,Laptop,2,Online,65000,130000
+1742,2026-03-09,Nakuru,Charger,3,In-store,1200,3600
+1747,2026-03-12,Mombasa,Tablet,2,Online,28000,56000
+1748,2026-03-29,Nairobi,Charger,5,Online,1200,6000
+1756,2026-03-06,Nakuru,Charger,4,Online,1200,4800
+1766,2026-03-27,Nairobi,Tablet,3,In-store,28000,84000
+1770,2026-03-20,Nairobi,Phone,1,Online,15000,15000
+1771,2026-03-21,Kisumu,Tablet,3,Online,28000,84000
+1784,2026-03-08,Nairobi,Phone,3,Online,15000,45000
+1788,2026-03-10,Nairobi,Laptop,2,In-store,65000,130000
+1795,2026-03-11,Kisumu,Laptop,1,In-store,65000,65000
+1806,2026-03-13,Eldoret,Charger,2,In-store,1200,2400
+1811,2026-03-07,Nakuru,Laptop,4,In-store,65000,260000
+1819,2026-03-02,Kisumu,Headphones,5,Phone order,2500,12500
+1823,2026-03-13,Nairobi,Laptop,3,In-store,65000,195000
+1827,2026-03-09,Nairobi,Tablet,5,In-store,28000,140000
+1829,2026-03-21,Mombasa,Charger,2,In-store,1200,2400
+1830,2026-03-12,Nairobi,Phone,5,In-store,15000,75000
+1831,2026-03-09,Eldoret,Tablet,5,Online,28000,140000
+1839,2026-03-06,Nairobi,Phone,1,Online,15000,15000
+1841,2026-03-28,Nairobi,Tablet,4,In-store,28000,112000
+1844,2026-03-23,Mombasa,Headphones,1,In-store,2500,2500
+1854,2026-03-01,Nairobi,Tablet,4,Online,28000,112000
+1869,2026-03-22,Eldoret,Phone,2,Phone order,15000,30000
+1878,2026-03-16,Kisumu,Tablet,1,In-store,28000,28000
+1880,2026-03-15,Nairobi,Tablet,2,In-store,28000,56000
+1881,2026-03-18,Mombasa,Tablet,2,In-store,28000,56000
+1884,2026-03-27,Nairobi,Phone,4,In-store,15000,60000
+1888,2026-03-31,Kisumu,Tablet,3,In-store,28000,84000
+1901,2026-03-04,Kisumu,Headphones,3,Online,2500,7500
+1907,2026-03-01,Nairobi,Phone,1,Online,15000,15000
+1909,2026-03-01,Mombasa,Phone,2,Online,15000,30000
+1910,2026-03-01,Nairobi,Laptop,2,In-store,65000,130000
+1911,2026-03-31,Nairobi,Headphones,2,In-store,2500,5000
+1923,2026-03-25,Kisumu,Headphones,5,Online,2500,12500
+1929,2026-03-15,Nakuru,Phone,3,In-store,15000,45000
+1933,2026-03-02,Kisumu,Tablet,1,In-store,28000,28000
+1934,2026-03-17,Nairobi,Laptop,3,In-store,65000,195000
+1940,2026-03-13,Nairobi,Tablet,4,Phone order,28000,112000
+1942,2026-03-14,Nairobi,Tablet,2,In-store,28000,56000
+1943,2026-03-18,Nairobi,Tablet,5,In-store,28000,140000
+1959,2026-03-31,Mombasa,Phone,4,In-store,15000,60000
+1964,2026-03-13,Nairobi,Laptop,1,Online,65000,65000
+1968,2026-03-29,Nairobi,Charger,3,Online,1200,3600
+1976,2026-03-31,Mombasa,Phone,1,In-store,15000,15000
+1996,2026-03-04,Mombasa,Laptop,5,In-store,65000,325000
+1997,2026-03-06,Nairobi,Tablet,2,Phone order,28000,56000
+1999,2026-03-02,Nairobi,Headphones,2,In-store,2500,5000
